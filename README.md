@@ -1,19 +1,27 @@
-The Sales & Customer Analytics System is a modular Python pipeline developed using Pandas to automate data cleaning, integration, analysis, and reporting for retail sales and customer datasets.
+# Namaa Market Sales Analytics
 
-Key Features & Technical Implementation
+A practical Pandas and Excel analytics project for **Namaa Market**, a fictional Jordanian e-commerce company.
 
-Data Cleaning & Preprocessing: Identifies and eliminates duplicate records, performs statistical imputation for missing numerical values (mean/default substitution), and converts raw strings into structured pandas datetime objects.
+## Project contents
 
-Relational Data Integration: Merges transactional sales logs with demographic customer data using relational key matching (Customer_ID).
+- `analysis.py` — reproducible cleaning, enrichment, KPI, and reporting pipeline.
+- `customers.csv`, `products.csv`, `orders.csv` — synthetic training data.
+- `BRIEF.md` — business case and management questions.
+- `reports/Namaa_Market_Final_Report.xlsx` — completed Excel dashboard and insights report.
 
-Feature Engineering: Derives calculated metrics such as total revenue per transaction (Price * Quantity) and extracts temporal features (Month) for trend evaluation.
+## What the analysis covers
 
-Data Aggregation & Insights: Computes sales metrics grouped by geographical distribution (City) and time periods (Month) using groupby() aggregations.
+- Data-quality checks and duplicate handling.
+- Customer and product joins.
+- Revenue, discounts, cost, gross profit, and profit margin.
+- Analysis by city, month, product, category, payment method, and order status.
+- Excel dashboard with charts and management recommendations.
 
-Automated Reporting: Exports the transformed dataset into a clean, structured output file (final_sales_report.csv).
+## Run locally
 
-Tech Stack & Architecture
+```bash
+python -m pip install pandas openpyxl
+python analysis.py
+```
 
-Language & Libraries: Python 3, Pandas
-
-Concepts: ETL (Extract, Transform, Load), Data Imputation, Relational Merging, Modular Programming.
+The script generates `Namaa_Market_Analysis.xlsx` in the project directory. The data is synthetic and created for training only.

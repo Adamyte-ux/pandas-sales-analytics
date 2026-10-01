@@ -1,5 +1,61 @@
-Customer_ID,Customer_Name,City
-C1,Ahmad,Amman
-C2,Omar,Zarqa
-C3,Sami,Irbid
-C4,Laila,Amman
+Customer_ID,Customer_Name,City,Segment,Signup_Date
+C001,Omar Haddad,Irbid,New,2025-04-25
+C002,Laila Qasem,Amman,Loyal,2026-01-15
+C003,Khaled Haddad,Aqaba,Regular,2025-01-17
+C004,Ahmad Haddad,Zarqa,New,2025-09-16
+C005,Maya Haddad,Aqaba,New,2026-01-02
+C006,Khaled Khatib,Zarqa,Regular,2025-10-29
+C007,Rana Haddad,Zarqa,Loyal,2025-08-05
+C008,Yazan Saleh,Zarqa,New,2026-05-06
+C009,Yazan Haddad,Amman,Regular,2025-02-19
+C010,Yazan Saleh,Aqaba,Regular,2026-02-18
+C011,Ahmad Qasem,Salt,Loyal,2025-03-05
+C012,Noor Haddad,Aqaba,Regular,2026-03-01
+C013,Maya Saleh,Aqaba,New,2025-12-27
+C014,Omar Haddad,Zarqa,Regular,2025-02-10
+C015,Sami Haddad,Salt,Regular,2025-08-21
+C016,Yazan Nasser,Irbid,Regular,2025-04-18
+C017,Rana Qasem,Amman,Loyal,2025-11-22
+C018,Laila Mansour,Zarqa,New,2025-08-25
+C019,Noor Saleh,Aqaba,New,2025-12-17
+C020,Yazan Haddad,Zarqa,New,2026-02-17
+C021,Yazan Khatib,Irbid,New,2025-04-19
+C022,Maya Qasem,Irbid,New,2025-12-02
+C023,Huda Khatib,Salt,New,2025-05-16
+C024,Laila Nasser,Aqaba,Loyal,2025-05-15
+C025,Maya Khatib,Aqaba,Regular,2025-07-05
+C026,Sami Nasser,Aqaba,Regular,2025-02-16
+C027,Ahmad Haddad,Zarqa,Loyal,2025-03-23
+C028,Noor Mansour,Amman,Regular,2025-07-15
+C029,Maya Khatib,Aqaba,Regular,2026-05-13
+C030,Khaled Haddad,Amman,Loyal,2026-03-30
+C031,Khaled Saleh,Irbid,New,2025-05-31
+C032,Noor Nasser,Salt,New,2026-05-04
+C033,Rana Mansour,Zarqa,Loyal,2026-04-13
+C034,Omar Qasem,Irbid,Loyal,2025-09-17
+C035,Maya Nasser,Zarqa,Regular,2026-01-26
+C036,Laila Mansour,Aqaba,New,2025-11-03
+C037,Yazan Khatib,Amman,New,2026-04-21
+C038,Yazan Saleh,Zarqa,New,2025-05-04
+C039,Maya Haddad,Amman,Loyal,2025-09-06
+C040,Omar Mansour,Zarqa,New,2025-12-04
+C041,Huda Mansour,Zarqa,Regular,2025-09-28
+C042,Maya Khatib,Zarqa,Loyal,2026-01-22
+C043,Sami Qasem,Irbid,Regular,2025-12-10
+C044,Yazan Khatib,Aqaba,Regular,2025-03-03
+C045,Sami Nasser,Amman,Regular,2025-01-11
+C046,Maya Mansour,Zarqa,Loyal,2025-04-23
+C047,Ahmad Haddad,Amman,New,2025-02-04
+C048,Ahmad Saleh,Amman,Loyal,2025-05-02
+C049,Rana Qasem,Salt,New,2025-10-04
+C050,Laila Qasem,Aqaba,Loyal,2025-08-31
+C051,Sami Khatib,Salt,New,2025-02-18
+C052,Omar Qasem,Salt,Regular,2025-08-05
+C053,Noor Khatib,Amman,Loyal,2025-12-01
+C054,Omar Haddad,Salt,Loyal,2025-06-23
+C055,Omar Nasser,Zarqa,New,2025-10-02
+C056,Huda Nasser,Salt,New,2025-05-23
+C057,Huda Nasser,Amman,Regular,2026-02-18
+C058,Khaled Haddad,Amman,Loyal,2025-10-04
+C059,Ahmad Haddad,Zarqa,New,2025-07-28
+C060,Huda Khatib,Zarqa,Regular,2026-04-08
